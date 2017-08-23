@@ -156,7 +156,7 @@ alert(el.length)
 8. 执行npm run dev 编译我们的代码
 
 9.执行我们的代码
-![image](part1_img/project.png)
+![image](./img/part1_img/project.png)
 
 > 以上代码可以在base下找到
 
